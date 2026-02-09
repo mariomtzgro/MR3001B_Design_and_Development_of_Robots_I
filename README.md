@@ -1,21 +1,8 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ManchesterRoboticsLtd/MR3001B_Design_and_Development_of_Robots_I/blob/main/Misc/Logos/Logotipo%20Vertical%20Bco_Transparente.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ManchesterRoboticsLtd/MR3001B_Design_and_Development_of_Robots_I/blob/main/Misc/Logos/Logotipo%20Vertical%20Azul%20transparente.png">
-  <img alt="Shows ITESM logo in black or white." width="160" align="right">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ManchesterRoboticsLtd/MR3001B_Design_and_Development_of_Robots_I/blob/main/Misc/Logos/MCR2_Logo_White.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ManchesterRoboticsLtd/MR3001B_Design_and_Development_of_Robots_I/blob/main/Misc/Logos/MCR2_Logo_Black.png">
-  <img alt="Shows MCR2 logo in black or white." width="150" align="right">
-</picture>
-
 ---
----
-# MR3001B Design and Development of Robots I 2025
+# MR3001B Design and Development of Robots I 2026
 
   ## Introduction
-* The objective of this course, created by Manchester Robotics Ltd. (MCR2), is to equip students with the skills needed to operate mobile robots in different environments.
+* The objective of this course, is to equip students with the skills needed to operate mobile robots in different environments.
 
 * This course is divided into two sections, carefully designed for the user to learn about the different aspects of ROS, from topics and messages to control and simulation of a real robot. These sections will span throughout a five-week period, with two lessons per week.
 
@@ -25,20 +12,20 @@ The second part of the course is dedicated to the analysis, control, and simulat
 * This course will be based on challenges to make the student aware of the problems faced while implementing advanced intelligent algorithms in robotics.
    
 ## General Information
-* MCR2 Person in Charge: Dr Mario Martinez
-* Tecnológico de Monterrey Person in Charge: Dr.  Consuelo Rodríguez Padilla and Dr. Carlos Vazquez
+* Professor: Dr Mario Martinez
 * Duration: 5 Weeks
 *	Student counselling: Via appointment.
-*	Classes: 10 sessions, 1 group.
-    *	Group 1: Mon, and Thu, 12- 3 PM (Central Mexico Time)
-* Start Date: 10 Feb 2025
+*	Classes: 10 sessions
+* Start Date: 09 Feb 2026
 
 ## Live Sessions (Recordings)
-  * [Recordings](https://tecmx-my.sharepoint.com/:f:/g/personal/mario_mtz_tec_mx/EhRkFwM3pbZDnRfi0OlssqsBjntRP-u-i9EWvaj4gKBDyw?e=UKGV0x)
+  * [Recordings Group 403](https://tecmx-my.sharepoint.com/:f:/g/personal/mario_mtz_tec_mx/IgB5K7PCWVXYRJU41S-APgg4AdUJ01pwKxEhHC22f4ruWPA?e=1GTN9d)
+  * [Recordings Group 406](https://tecmx-my.sharepoint.com/:f:/g/personal/mario_mtz_tec_mx/IgDSKS1xczKbSYNpZgT-BIxgAXx6KgOGQGa67houadA1hKw?e=w3woGA)
+  * [Recordings Group 402](https://tecmx-my.sharepoint.com/:f:/g/personal/mario_mtz_tec_mx/IgABx9JWP55fTanW9X2i7jJyAbSRUO4_qcm5v1b69nuFDLw?e=VgUofG)
      
 ## General Requirements
 General requirements. Please be aware that a set of requirements specific to each session will be shown in each session subsection (Some items may be repeated).
-* Computer with access to Zoom (online classes).
+* Computer with access to Teams (online classes).
 * Computer with Ubuntu 20.04 and ROS Noetic or the Virtual Machine provided by MCR2.
 * Knowledge of Windows. 
 * Basic knowledge of Ubuntu (recommended).
@@ -259,18 +246,11 @@ This week will introduce some basics of open-loop and closed-loop control for mo
 
 
   ---
-## Declaration
-
-At Manchester Robotics, we firmly believe that innovation is driven by change, so we have made it our mission to change access to educational robotics. We hope you enjoy our products and support this revolution.
-
-So, from the team at MCR2, we would like to say 
-
-                                                          Thank you!
-                                                   {Learn, Create, Innovate};
----
+  
   ## Disclaimer
- *THE PIECES, IMAGES, VIDEOS, DOCUMENTATION, ETC. SHOWN HERE ARE FOR INFORMATIVE PURPOSES ONLY. THE DESIGN IS PROPRIETARY AND CONFIDENTIAL TO MANCHESTER ROBOTICS LTD. (MCR2). THE INFORMATION, CODE, SIMULATORS, DRAWINGS, VIDEOS PRESENTATIONS ETC. CONTAINED IN THIS REPOSITORY IS THE SOLE PROPERTY OF MANCHESTER ROBOTICS LTD. ANY REPRODUCTION OR USAGE IN PART OR AS A WHOLE WITHOUT THE WRITTEN PERMISSION OF MANCHESTER ROBOTICS LTD. IS STRICTLY PROHIBITED*
+ *THE PIECES, IMAGES, VIDEOS, DOCUMENTATION, ETC. SHOWN HERE ARE FOR INFORMATIVE PURPOSES ONLY. THE DESIGN IS PROPRIETARY AND CONFIDENTIAL TO THE PROFESSOR. THE INFORMATION, CODE, SIMULATORS, DRAWINGS, VIDEOS PRESENTATIONS ETC. CONTAINED IN THIS REPOSITORY IS THE SOLE PROPERTY OF THE PROFESSOR ANY REPRODUCTION OR USAGE IN PART OR AS A WHOLE WITHOUT THE WRITTEN PERMISSION OF THE PROFESSOR IS STRICTLY PROHIBITED*
 
 *THIS WEBSITE MAY CONTAIN LINKS TO OTHER WEBSITES OR CONTENT BELONGING TO OR ORIGINATING FROM THIRD PARTIES OR LINKS TO WEBSITES AND FEATURES IN BANNERS OR OTHER ADVERTISING. SUCH EXTERNAL LINKS ARE NOT INVESTIGATED, MONITORED, OR CHECKED FOR ACCURACY, ADEQUACY, VALIDITY, RELIABILITY, AVAILABILITY OR COMPLETENESS BY US.*
 
 *WE DO NOT WARRANT, ENDORSE, GUARANTEE, OR ASSUME RESPONSIBILITY FOR THE ACCURACY OR RELIABILITY OF ANY INFORMATION OFFERED BY THIRD-PARTY WEBSITES LINKED THROUGH THE SITE OR ANY WEBSITE OR FEATURE LINKED IN ANY BANNER OR OTHER ADVERTISING.*
+
