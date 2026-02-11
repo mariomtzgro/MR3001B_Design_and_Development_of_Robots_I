@@ -123,7 +123,7 @@ This week, we will deliver a comprehensive introduction to some of the most prac
     Requirements of Session 1.
 
 
-### Week 3: URDF Files
+### Week 3: Kinematic Simulation
 This week's curriculum will encompass the core concepts of mobile robots and simulation.
 #### This week a review on State of the Art will be presented
   •	Solution of CW2.
@@ -193,5 +193,6 @@ This week will introduce some basics of open-loop and closed-loop control for mo
 *THIS WEBSITE MAY CONTAIN LINKS TO OTHER WEBSITES OR CONTENT BELONGING TO OR ORIGINATING FROM THIRD PARTIES OR LINKS TO WEBSITES AND FEATURES IN BANNERS OR OTHER ADVERTISING. SUCH EXTERNAL LINKS ARE NOT INVESTIGATED, MONITORED, OR CHECKED FOR ACCURACY, ADEQUACY, VALIDITY, RELIABILITY, AVAILABILITY OR COMPLETENESS BY US.*
 
 *WE DO NOT WARRANT, ENDORSE, GUARANTEE, OR ASSUME RESPONSIBILITY FOR THE ACCURACY OR RELIABILITY OF ANY INFORMATION OFFERED BY THIRD-PARTY WEBSITES LINKED THROUGH THE SITE OR ANY WEBSITE OR FEATURE LINKED IN ANY BANNER OR OTHER ADVERTISING.*
+
 
 
